@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\ДЗ по проге\1-2\13\13\main.cpp(17,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\Desktop\ДЗ по проге\1-2\13\13\main.cpp(23,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  13.vcxproj -> C:\Users\Alex\Desktop\ДЗ по проге\1-2\13\x64\Debug\13.exe

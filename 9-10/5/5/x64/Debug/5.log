@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(5,10): error C2062: тип "float" не требуется
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(30,15): error C2065: B: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(30,17): error C2065: C: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(30,19): error C2065: D: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(31,12): error C2065: B: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(32,12): error C2065: C: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(33,12): error C2065: D: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(34,9): error C2065: B: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(34,12): error C2065: C: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(35,9): error C2065: C: необъявленный идентификатор
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\5\5\main.cpp(35,12): error C2065: D: необъявленный идентификатор

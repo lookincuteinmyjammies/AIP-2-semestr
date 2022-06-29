@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\10\10\main.cpp(6,6): error C2365: y1: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(983): message : см. объявление "y1"
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\10\10\main.cpp(31,15): error C2664: "char Quarter(char,char)": невозможно преобразовать аргумент 2 из "double (__cdecl *)(double)" в "char"
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\10\10\main.cpp(31,13): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\Desktop\ДЗ по проге\9-10\10\10\main.cpp(17,6): message : см. объявление "Quarter"

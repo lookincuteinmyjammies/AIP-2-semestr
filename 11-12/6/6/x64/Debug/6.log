@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\6\6\main.cpp(19,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\6\6\main.cpp(22,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\6\6\main.cpp(23,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\6\6\main.cpp(26,21): warning C4305: =: усечение из "double" в "float"
+  6.vcxproj -> C:\Users\Alex\Desktop\ДЗ по проге\11-12\6\x64\Debug\6.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(10,8): error C7624: Имя типа "robot" не может находиться в правой части выражения доступа к элементу класса.
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(5,8): message : см. объявление "robot"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(10,18): error C7624: Имя типа "robot" не может находиться в правой части выражения доступа к элементу класса.
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(5,8): message : см. объявление "robot"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(12,8): error C7624: Имя типа "robot" не может находиться в правой части выражения доступа к элементу класса.
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(5,8): message : см. объявление "robot"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(12,18): error C7624: Имя типа "robot" не может находиться в правой части выражения доступа к элементу класса.
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(5,8): message : см. объявление "robot"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(19,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(21,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(22,19): warning C4305: =: усечение из "double" в "float"
+C:\Users\Alex\Desktop\ДЗ по проге\11-12\4\4\main.cpp(24,26): warning C4305: =: усечение из "double" в "float"
